@@ -1,0 +1,32 @@
+{
+  "name": "pwebautomation",
+  "version": "1.0.0",
+  "description": "Created with [Nodeclipse](https://github.com/Nodeclipse/nodeclipse-1)\r  ([Eclipse Marketplace](http://marketplace.eclipse.org/content/nodeclipse), [site](http://www.nodeclipse.org))",
+  "main": "inputSheet.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "asserts": "^4.0.2",
+    "chromedriver": "2.38.0",
+    "executors": "^0.0.6",
+    "file-system": "^2.2.2",
+    "fs": "0.0.1-security",
+    "geckodriver": "^1.10.0",
+    "good-mocha-html-reporter": "^2.0.1",
+    "mocha": "^4.1.0",
+    "nodemailer": "^4.6.8",
+    "nodemailer-smtp-transport": "^2.7.4",
+    "npm-run-all": "^4.1.2",
+    "npm-run-series": "^1.0.0",
+    "selenium-webdriver": "^3.6.0"
+  },
+  "devDependencies": {
+    "mocha": "^4.1.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}
