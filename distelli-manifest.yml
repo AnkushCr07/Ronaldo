@@ -1,0 +1,7 @@
+PkgInclude:
+  - '*'
+
+PreRelease:
+  - npm install
+  - npm test
+
