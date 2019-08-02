@@ -4,7 +4,7 @@ Created By QA Source
 
 module.exports={
    
-	crossBrowserTesting : 'Chrome,Firefox',
+	crossBrowserTesting : 'Chrome,Firefox,',
 	//crossBrowserTesting : 'Firefox',
 	//crossBrowserTesting : 'Chrome',
 	spiritURl : 'https://spirit.com', //staging
