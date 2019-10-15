@@ -11,4 +11,5 @@ module.exports={
 	timeout : '50000',
     wait : '900000',	
 	returnDateStyle : 'visibility: visible;',	
+	git test
 };
