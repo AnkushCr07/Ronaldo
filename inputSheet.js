@@ -4,11 +4,12 @@ Created By QA Source
 
 module.exports={
    
-	crossBrowserTesting : 'Chrome,Firefox,nnnnn,mm',
+	crossBrowserTesting : 'Chrome,Firefox,nnnnn,mm,pp',
 	//crossBrowserTesting : 'Firefox',
 	//crossBrowserTesting : 'Chrome',
 	spiritURl : 'https://spirit.com', //staging
 	timeout : '50000',
     wait : '900000',	
 	returnDateStyle : 'visibility: visible;',	
+	git test
 };
